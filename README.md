@@ -6,7 +6,7 @@ My first repository
 2. Spirited Away
 3. A Silent Voice
 
-### *3 series*
+## *3 series*
 1. Attack on Titan
 2. Demon Slayer
 3. Jujutsu Kaisen
